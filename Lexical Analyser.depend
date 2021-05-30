@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1620595194 source:c:\users\kimo store\desktop\c_shimaa\lexical analyser\calc_rgx.cpp
+	"calc_rgx.h"
+	<bits/stdc++.h>
+	"structures.h"
+
+1620542436 c:\users\kimo store\desktop\c_shimaa\lexical analyser\calc_rgx.h
+	"structures.h"
+	"NFA.h"
+
+1620542436 c:\users\kimo store\desktop\c_shimaa\lexical analyser\structures.h
+	<bits/stdc++.h>
+
+1620542436 c:\users\kimo store\desktop\c_shimaa\lexical analyser\nfa.h
+	"structures.h"
+	<bits/stdc++.h>
+
+1620596425 source:c:\users\kimo store\desktop\c_shimaa\lexical analyser\dfa.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<iterator>
+	"DFA.h"
+	"minimization.h"
+
+1620542436 c:\users\kimo store\desktop\c_shimaa\lexical analyser\dfa.h
+	<iostream>
+	<vector>
+	<map>
+	"structures.h"
+	<bits/stdc++.h>
+
+1620542436 c:\users\kimo store\desktop\c_shimaa\lexical analyser\minimization.h
+	<iostream>
+	<map>
+	"DFA.h"
+
+1620596970 source:c:\users\kimo store\desktop\c_shimaa\lexical analyser\input_rules.cpp
+	"input_rules.h"
+	"parse_rules.h"
+	"minimization.h"
+	"TestProgram.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<bits/stdc++.h>
+
+1620542436 c:\users\kimo store\desktop\c_shimaa\lexical analyser\input_rules.h
+	"parse_rules.h"
+	"structures.h"
+	"calc_rgx.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1620542436 c:\users\kimo store\desktop\c_shimaa\lexical analyser\parse_rules.h
+	<bits/stdc++.h>
+
+1620596634 c:\users\kimo store\desktop\c_shimaa\lexical analyser\testprogram.h
+	<iostream>
+	<vector>
+	<map>
+	"minimization.h"
+	<bits/stdc++.h>
+
+1620542436 source:c:\users\kimo store\desktop\c_shimaa\lexical analyser\main.cpp
+	<iostream>
+	"minimization.h"
+
+1620596276 source:c:\users\kimo store\desktop\c_shimaa\lexical analyser\minimization.cpp
+	<iostream>
+	"minimization.h"
+	<map>
+	<set>
+
+1620587492 source:c:\users\kimo store\desktop\c_shimaa\lexical analyser\nfa.cpp
+	"NFA.h"
+	<algorithm>
+	<bits/stdc++.h>
+
+1620542436 source:c:\users\kimo store\desktop\c_shimaa\lexical analyser\parse_rules.cpp
+	"parse_rules.h"
+	<bits/stdc++.h>
+
+1620621683 source:c:\users\kimo store\desktop\c_shimaa\lexical analyser\testprogram.cpp
+	"TestProgram.h"
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+	<regex>
+	<iterator>
+
